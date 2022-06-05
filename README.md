@@ -1,1 +1,1 @@
-# ProyectoTeor-a
+# ProyectoTeoria
