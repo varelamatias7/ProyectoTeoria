@@ -11,10 +11,10 @@ Definición de conceptos vinculados a la metodología "Scrum".
 # CEREMONIAS
 Existen 4 tipos de ceremonias en Scrum que son: 
 
-1 - SPRINT PLANNING MEETING (Reunión de planificación del sprint)
-2 - DAILY SCRUM MEETING (Reunión Períodica)
-3 - SPRINT REVIEW MEETING (Reunión de Revisión del Sprint)
-4 - SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint)
+- SPRINT PLANNING MEETING (Reunión de planificación del sprint)
+- DAILY SCRUM MEETING (Reunión Períodica)
+- SPRINT REVIEW MEETING (Reunión de Revisión del Sprint)
+- SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint)
 
 Link al documento de cátedra: https://drive.google.com/file/d/1EEtOR2laQHCpbe3ZERr1YsguASmODX_z/view?usp=sharing
 
