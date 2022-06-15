@@ -17,3 +17,4 @@ Existen 4 tipos de ceremonias en Scrum que son:
 - SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint)
 
 Link al documento de cátedra: https://drive.google.com/drive/u/0/my-drive
+
