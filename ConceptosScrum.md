@@ -5,7 +5,7 @@
 
 1) Christian Murua. Se asigno tarea1 y tarea2.
 
-## TAREA 3 - CONCEPTOS DE SCRUM 
+## Tarea 3 - CONCEPTOS DE SCRUM 
 Definición de conceptos vinculados a la metodología "Scrum". 
 
 ### CEREMONIAS
