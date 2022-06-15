@@ -4,3 +4,17 @@
 #### Sprint 1. Tareas a hacer cada uno de los 10 colaboradores: Asignarse 2 tareas y realizarlas hasta el dia miercoles proximo 22/06 ya que la idea es cerrar el sprint cumpliendo con cierto plazo.
 
 1) Christian Murua. Se asigno tarea1 y tarea2.
+
+## TAREA 3 - CONCEPTOS DE SCRUM 
+Definición de conceptos vinculados a la metodología "Scrum". 
+
+# CEREMONIAS
+Existen 4 tipos de ceremonias en Scrum que son: 
+
+1 - SPRINT PLANNING MEETING (Reunión de planificación del sprint)
+2 - DAILY SCRUM MEETING (Reunión Períodica)
+3 - SPRINT REVIEW MEETING (Reunión de Revisión del Sprint)
+4 - SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint)
+
+Link al documento de cátedra: https://drive.google.com/file/d/1EEtOR2laQHCpbe3ZERr1YsguASmODX_z/view?usp=sharing
+
