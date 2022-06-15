@@ -5,10 +5,10 @@
 
 1) Christian Murua. Se asigno tarea1 y tarea2.
 
-# TAREA 3 - CONCEPTOS DE SCRUM 
+## TAREA 3 - CONCEPTOS DE SCRUM 
 Definición de conceptos vinculados a la metodología "Scrum". 
 
-## CEREMONIAS
+### CEREMONIAS
 Existen 4 tipos de ceremonias en Scrum que son: 
 
 - SPRINT PLANNING MEETING (Reunión de planificación del sprint)
