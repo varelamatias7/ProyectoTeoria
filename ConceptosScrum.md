@@ -6,6 +6,7 @@
 1) Christian Murua. Se asignó tarea 1 y tarea 2.
 2) Lorena Delgado. Se asignó tarea 3 y tarea 4.
 3) Matías Oscar Varela. Se asignó tarea 5 y 6.
+4) Lucas de la Rosa. Se asignó tarea 7 y 8.
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
 Definición de conceptos vinculados a la metodología "Scrum". 
