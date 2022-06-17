@@ -15,10 +15,25 @@ Definición de conceptos vinculados a la metodología "Scrum".
 ### CEREMONIAS
 Existen 4 tipos de ceremonias en Scrum que son: 
 
-- SPRINT PLANNING MEETING (Reunión de planificación del sprint)
-- DAILY SCRUM MEETING (Reunión Períodica)
-- SPRINT REVIEW MEETING (Reunión de Revisión del Sprint)
-- SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint)
+- SPRINT PLANNING MEETING (Reunión de planificación del sprint):
+  Se realiza al iniciar cada Sprint y tiene como objetivo decidir lo que se va a incluir en el sprint.
+- DAILY SCRUM MEETING (Reunión Períodica): 
+  Se realiza en forma diaria y tiene una duración aproximada de 20 minutos. El objetivo de esta reunión se centra en responder estas 3 preguntas:
+  -- ¿Qué se hizo?
+  -- ¿Qué se va a hacer?
+  -- ¿Qué problemas se encontraron?
+- SPRINT REVIEW MEETING (Reunión de Revisión del Sprint): 
+  Se realiza al finalizar el Sprint y y tiene como objetivo definir qué es lo que se completó y qué es lo que quedó pendiente del Sprint.
+  En esta  reunión debe estar presente el "Product owner".
+- SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint): 
+  Se realiza al finalizar el Sprint y su objetivo es dejar documentado qué es lo que funcionó y qué es lo que no, para permitir al equipo enfocarse en lo que salió       bien y en lo que se debe mejorar, pero no se enfoca al equipo en lo que salió mal.
+  
+  ### LOS ARTEFACTOS 
+  Existen 3 tipos de artefactos en el Sprint que son:
+  
+  - PRODUCT BACKLOG (Pila del Producto)
+  - SPRINT BACKLOG (Pila del Sprint)
+  - INCREMENT (Incremento)
 
 Link al documento de cátedra: https://drive.google.com/file/d/1pWzqXT_frVxdZ9GMLL0FNbEOYceqR0V5/view?usp=sharing
 
