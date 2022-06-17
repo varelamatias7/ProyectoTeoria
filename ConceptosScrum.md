@@ -66,6 +66,11 @@ Material Resumen de [GITHUB](https://docs.google.com/presentation/d/1Zu3uagYlQju
 
 Clase Explicativa de [GITHUB](https://www.youtube.com/watch?v=T7FICkd1MAE&feature=youtu.be).
 
+## TAREA 11 - TUTORIAL PARA PROYECTO EN GITHUB
+
+Se adjunta link al documento tutorial: 
+https://drive.google.com/file/d/16zbNj-TficysD2MRCs8sV4ATs140L9iA/view?usp=sharing
+
 
 
 
