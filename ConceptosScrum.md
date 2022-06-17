@@ -73,5 +73,35 @@ Se adjunta link al documento tutorial:
 https://drive.google.com/file/d/16zbNj-TficysD2MRCs8sV4ATs140L9iA/view?usp=sharing
 
 
+## CONCEPTO DE PHYTON
+
+Python es un lenguaje de programación de alto nivel, interpretado, orientado a objetos y de uso generalizado con semántica dinámica, que se utiliza para la programación de propósito general.
+Python fue creado por Guido van Rossum, nacido en 1956 en Haarlem, Países Bajos. Velozmente se extendio en todo el mundo el programa, y fue trabajo de miles de programadores, testers, usuarios (muchos de ellos no son especialistas en TI) y entusiastas, pero hay que decir que la primera idea (la semilla de la que brotó Python) llegó a una cabeza: la de Guido. 
+
+Los objetivos de Python
+
+En 1999, Guido van Rossum definió sus objetivos para Python:
+
+- Un lenguaje fácil e intuitivo tan poderoso como los de los principales competidores.
+- De código abierto, para que cualquiera pueda contribuir a su desarrollo.
+- El código que es tan comprensible como el inglés simple.
+- Adecuado para tareas cotidianas, permitiendo tiempos de desarrollo cortos.
+
+Unos 20 años después, está claro que todas estas intenciones se han cumplido. Algunas fuentes dicen que Python es el lenguaje de programación más popular del mundo, mientras que otros afirman que es el tercero o el quinto. Python no es una lengua joven pero es maduro y digno de confianza.
+
+¿Qué hace especial a Python?
+- Es fácil de aprender: el tiempo necesario para aprender Python es más corto que en muchos otros lenguajes; esto significa que es posible comenzar la programación real más rápido.
+- Es fácil de enseñar: la carga de trabajo de enseñanza es menor que la que necesitan otros lenguajes; esto significa que el profesor puede poner más énfasis en las técnicas de programación generales (independientes del lenguaje), no gastando energía en trucos exóticos, extrañas excepciones y reglas incomprensibles.
+- Es fácil de utilizar: para escribir software nuevo; a menudo es posible escribir código más rápido cuando se emplea Python.
+- Es fácil de entender: a menudo, también es más fácil entender el código de otra persona más rápido si está escrito en Python.
+- Es fácil de obtener, instalar y desplegar: Python es gratuito, abierto y multiplataforma; no todos los lenguajes pueden presumir de eso.
+
+¿Dónde podemos ver a Python en acción?
+Lo vemos todos los días y en casi todas partes. Se utiliza ampliamente para implementar complejos Servicios de Internet como motores de búsqueda, almacenamiento en la nube y herramientas, redes sociales, etc. Cuando utilizas cualquiera de estos servicios, en realidad estás muy cerca de Python. Muchos testers de proyectos de TI han comenzado a usar Python para llevar a cabo procedimientos de prueba repetibles. 
+
+Material 
+https://docs.google.com/document/d/1St2gGsp1rRw8gLAz63lNfPaTJFVUf5jB/edit?usp=sharing&ouid=111486841225754569920&rtpof=true&sd=true
+
+
 
 
