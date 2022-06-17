@@ -101,6 +101,7 @@ Lo vemos todos los días y en casi todas partes. Se utiliza ampliamente para imp
 
 Material 
 https://docs.google.com/document/d/1St2gGsp1rRw8gLAz63lNfPaTJFVUf5jB/edit?usp=sharing&ouid=111486841225754569920&rtpof=true&sd=true
+Material cisco https://edube.org/learn/python-essentials-1-esp/fundamentos-de-python-1-m-oacute-dulo-2
 
 
 
