@@ -33,15 +33,15 @@ Existen 4 tipos de ceremonias en Scrum que son:
   ### LOS ARTEFACTOS 
   Existen 3 tipos de artefactos en el Sprint que son:
   
-  - PRODUCT BACKLOG (Pila del Producto)
+ - PRODUCT BACKLOG (Pila del Producto)
   Consiste en una lista con todos los requerimientos iniciales del producto que se va a desarrollar. Esta lista es dinámica, debido a que va evolucionando a medida que   lo hace el producto y el entorno del proyecto. Contiene la descripción de las tareas que se van a realizar para la ejecución de cada requisito, y están organizadas     en función de sus prioridades. También se indica una estimación del tiempo en que se va a desarrollar cada tarea. 
-  - SPRINT BACKLOG (Pila del Sprint)
+ - SPRINT BACKLOG (Pila del Sprint)
   Consite en una lista formada por elementos seleccionados del Product Backlog, para ser desarrollados en el trasncurso de los diferentes Sprints del proyecto.
   El equipo identificará las funcionaidades principales para priorizar las que se entregarán en el Sprint.
   Se representa a través de una tablero de tareas, para que todo el equipo pueda conocer y hacer seguimiento de las tareas que tiene asignadas y a su grado de           desarrollo.
-  - INCREMENT (Incremento o Product Increment)
+ - INCREMENT (Incremento o Product Increment)
   Es la suma de todos los elementos del Product Backlog que fueron completados durante el Sprint. Es presentado en cada Sprint Review.
-  Para definir de manera formal es estado del Increment se utiliza el #Definition of Done (Definición de terminado).
+  Para definir de manera formal es estado del Increment se utiliza el ## Definition of Done (Definición de terminado).
   Se trata de un acuerdo común que sirve para determinar cuando un elemento de la lista del producto está finalizado.
   Si un elemento del Product Backlog no cumple con la "Definition of Done", no se puede presentar en la Sprint Review.
     
