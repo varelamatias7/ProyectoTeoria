@@ -30,8 +30,8 @@ Existen 4 tipos de ceremonias en Scrum que son:
 - SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint): 
   Se realiza al finalizar el Sprint y su objetivo es dejar documentado qué es lo que funcionó y qué es lo que no, para permitir al equipo enfocarse en lo que salió       bien y en lo que se debe mejorar, pero no se enfoca al equipo en lo que salió mal.
   
-  ### LOS ARTEFACTOS 
-  Existen 3 tipos de artefactos en el Sprint que son:
+ ### LOS ARTEFACTOS 
+ Existen 3 tipos de artefactos en el Sprint que son:
   
  - PRODUCT BACKLOG (Pila del Producto)
   Consiste en una lista con todos los requerimientos iniciales del producto que se va a desarrollar. Esta lista es dinámica, debido a que va evolucionando a medida que   lo hace el producto y el entorno del proyecto. Contiene la descripción de las tareas que se van a realizar para la ejecución de cada requisito, y están organizadas     en función de sus prioridades. También se indica una estimación del tiempo en que se va a desarrollar cada tarea. 
