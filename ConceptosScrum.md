@@ -18,46 +18,46 @@ Definición de conceptos vinculados a la metodología "Scrum".
 ### CEREMONIAS
 Existen 4 tipos de ceremonias en Scrum que son: 
 
-- SPRINT PLANNING MEETING (Reunión de planificación del sprint):
+- **SPRINT PLANNING MEETING (Reunión de planificación del sprint):**
     Se realiza al iniciar cada Sprint y tiene como objetivo decidir lo que se va a incluir en el sprint.
-- DAILY SCRUM MEETING (Reunión Períodica): 
+- **DAILY SCRUM MEETING (Reunión Períodica): **
     Se realiza en forma diaria y tiene una duración aproximada de 20 minutos. El objetivo de esta reunión se centra en responder estas 3 preguntas:
     - ¿Qué se hizo?
     - ¿Qué se va a hacer?
     - ¿Qué problemas se encontraron?
-- SPRINT REVIEW MEETING (Reunión de Revisión del Sprint): 
+- **SPRINT REVIEW MEETING (Reunión de Revisión del Sprint):**
     Se realiza al finalizar el Sprint y y tiene como objetivo definir qué es lo que se completó y qué es lo que quedó pendiente del Sprint.
     En esta  reunión debe estar presente el "Product owner".
-- SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint): 
+- **SPRINT RETROSPECTIVE MEETING (Reunión de Retrospectiva del Sprint):**
     Se realiza al finalizar el Sprint y su objetivo es dejar documentado qué es lo que funcionó y qué es lo que no, para permitir al equipo enfocarse en lo que salió       bien y en lo que se debe mejorar, pero no se enfoca al equipo en lo que salió mal.
   
  ### LOS ARTEFACTOS 
  Existen 3 tipos de artefactos en el Sprint que son:
   
- - PRODUCT BACKLOG (Pila del Producto):
+ - **PRODUCT BACKLOG (Pila del Producto):**
     Consiste en una lista con todos los requerimientos iniciales del producto que se va a desarrollar. Esta lista es dinámica, debido a que va evolucionando a medida       que lo hace el producto y el entorno del proyecto. Contiene la descripción de las tareas que se van a realizar para la ejecución de cada requisito, y están             organizadas en función de sus prioridades. También se indica una estimación del tiempo en que se va a desarrollar cada tarea. 
- - SPRINT BACKLOG (Pila del Sprint):
+ - **SPRINT BACKLOG (Pila del Sprint):**
     Consite en una lista formada por elementos seleccionados del Product Backlog, para ser desarrollados en el trasncurso de los diferentes Sprints del proyecto.
     El equipo identificará las funcionaidades principales para priorizar las que se entregarán en el Sprint.
     Se representa a través de una tablero de tareas, para que todo el equipo pueda conocer y hacer seguimiento de las tareas que tiene asignadas y a su grado de           desarrollo.
- - INCREMENT (Incremento o Product Increment):
+ - **INCREMENT (Incremento o Product Increment):**
     Es la suma de todos los elementos del Product Backlog que fueron completados durante el Sprint. Es presentado en cada Sprint Review.
-    Para definir de manera formal es estado del Increment se utiliza el ##Definition of Done (Definición de terminado)##.
+    Para definir de manera formal es estado del Increment se utiliza el **Definition of Done (Definición de terminado)**.
     Se trata de un acuerdo común que sirve para determinar cuando un elemento de la lista del producto está finalizado.
     Si un elemento del Product Backlog no cumple con la "Definition of Done", no se puede presentar en la Sprint Review.
   
  ### ROLES
  
- - PRODUCT OWNER (Dueño del producto):
+ - **PRODUCT OWNER (Dueño del producto):**
     Es el que representa la voz del cliente y es encargado de maximizar el valor del producto.
     Representa las partes interesadas (stakeholders) internas y externas y debe apoyar las necesidades, tanto de todos los usuarios del negocio, como las del equipo       scrum.
     Es el responsable de la aceptación del "Incremento". Se revisan los tiempos y que no se modofique lo que ya fue definido en el Sprint.
- - SCRUM MASTER:
+ - **SCRUM MASTER:**
     Es responsable de promover y apoyar ayudando a todos a entender las reglas y valores de scrum.
     Se lo considera como al "guardían" del enfoque metodológico.
     Es un líder que está al servicio del Scrum Team, dado que es un coach, un faciltador y no un jefe. El equipo se auto-organiza.
     Y es el que se ocupa de resolver y levantar los impedimentos que puedan surgir durante el desarrollo del proyecto.
- - SCRUM TEAM (Development Team / Equipo de Desarrollo):
+ - **SCRUM TEAM (Development Team / Equipo de Desarrollo):**
     Está formado por profesionales como "Developers", "QA Testers" y "UX/UI Designers", que realizan el trabajo de entregar el "Incremento de Producto" (terminado),       para que se que se pueda poner en Producción al final de cada Sprint. Se trata de un equipo auto-organizado y que se autolidera.
     Sólo los miembros del Scrum Team participan en la creación del "Incremento del Producto", que es necesario y obligatorio para ser entregado en la "Sprint Review".
    
