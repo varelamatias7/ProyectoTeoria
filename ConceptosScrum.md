@@ -8,8 +8,9 @@
 3) Matías Oscar Varela. Se asignó tarea 5 y 6.
 4) Lucas de la Rosa. Se asignó tarea 7 y 8.
 5) Cristian Nicolás Ortiz. Se asignó tarea 9 y 10.
-6) Alejandra Colqui Sueldo. Se asignó tarea concepto de Phyton
-7) Paloma Montani. Se asignó tarea 12 y 13.
+6) Paloma Montani. Se asignó tarea 12 y 13.
+7) Alejandra Colqui Sueldo. Se asignó tarea 14 y 15. 
+
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
 Definición de conceptos vinculados a la metodología "Scrum". 
@@ -97,7 +98,7 @@ Se adjunta link al documento tutorial:
 https://drive.google.com/file/d/16zbNj-TficysD2MRCs8sV4ATs140L9iA/view?usp=sharing
 
 
-## CONCEPTO DE PHYTON
+## TAREA 14 - CONCEPTO DE PHYTON
 
 Python es un lenguaje de programación de alto nivel, interpretado, orientado a objetos y de uso generalizado con semántica dinámica, que se utiliza para la programación de propósito general.
 Python fue creado por Guido van Rossum, nacido en 1956 en Haarlem, Países Bajos. Velozmente se extendio en todo el mundo el programa, y fue trabajo de miles de programadores, testers, usuarios (muchos de ellos no son especialistas en TI) y entusiastas, pero hay que decir que la primera idea (la semilla de la que brotó Python) llegó a una cabeza: la de Guido. 
