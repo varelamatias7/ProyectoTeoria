@@ -44,7 +44,22 @@ Existen 4 tipos de ceremonias en Scrum que son:
   Para definir de manera formal es estado del Increment se utiliza el ## Definition of Done (Definición de terminado).
   Se trata de un acuerdo común que sirve para determinar cuando un elemento de la lista del producto está finalizado.
   Si un elemento del Product Backlog no cumple con la "Definition of Done", no se puede presentar en la Sprint Review.
-    
+  
+ ### ROLES
+ 
+ - PRODUCT OWNER (Dueño del producto)
+   Es el que representa la voz del cliente y es encargado de maximizar el valor del producto.
+   Representa las partes interesadas (stakeholders) internas y externas y debe apoyar las necesidades, tanto de todos los usuarios del negocio, como las del equipo        scrum.
+   Es el responsable de la aceptación del "Incremento". Se revisan los tiempos y que no se modofique lo que ya fue definido en el Sprint.
+ - SCRUM MASTER
+   Es responsable de promover y apoyar ayudando a todos a entender las reglas y valores de scrum.
+   Se lo considera como al "guardían" del enfoque metodológico.
+   Es un líder que está al servicio del Scrum Team, dado que es un coach, un faciltador y no un jefe. El equipo se auto-organiza.
+   Y es el que se ocupa de resolver y levantar los impedimentos que puedan surgir durante el desarrollo del proyecto.
+ - SCRUM TEAM (Development Team / Equipo de Desarrollo)
+   Está formado por profesionales como "Developers", "QA Testers" y "UX/UI Designers", que realizan el trabajo de entregar el "Incremento de Producto" (terminado),        para que se que se pueda poner en Producción al final de cada Sprint. Se trata de un equipo auto-organizado y que se autolidera.
+   Solo los miembros del Scrum Team participan en la creación del "Incremento del Producto", que es necesario y obligatorio para ser entregado en la "Sprint Review".
+   
 Link al documento de cátedra: https://drive.google.com/file/d/1pWzqXT_frVxdZ9GMLL0FNbEOYceqR0V5/view?usp=sharing
 
 
