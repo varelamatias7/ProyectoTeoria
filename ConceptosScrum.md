@@ -20,7 +20,7 @@ Existen 4 tipos de ceremonias en Scrum que son:
 
 - **SPRINT PLANNING MEETING (Reunión de planificación del sprint):**
     Se realiza al iniciar cada Sprint y tiene como objetivo decidir lo que se va a incluir en el sprint.
-- **DAILY SCRUM MEETING (Reunión Períodica): **
+- **DAILY SCRUM MEETING (Reunión Períodica):**
     Se realiza en forma diaria y tiene una duración aproximada de 20 minutos. El objetivo de esta reunión se centra en responder estas 3 preguntas:
     - ¿Qué se hizo?
     - ¿Qué se va a hacer?
