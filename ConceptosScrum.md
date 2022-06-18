@@ -42,7 +42,7 @@ Existen 4 tipos de ceremonias en Scrum que son:
     Se representa a través de una tablero de tareas, para que todo el equipo pueda conocer y hacer seguimiento de las tareas que tiene asignadas y a su grado de           desarrollo.
  - INCREMENT (Incremento o Product Increment):
     Es la suma de todos los elementos del Product Backlog que fueron completados durante el Sprint. Es presentado en cada Sprint Review.
-    Para definir de manera formal es estado del Increment se utiliza el ## Definition of Done (Definición de terminado).
+    Para definir de manera formal es estado del Increment se utiliza el ##Definition of Done (Definición de terminado)##.
     Se trata de un acuerdo común que sirve para determinar cuando un elemento de la lista del producto está finalizado.
     Si un elemento del Product Backlog no cumple con la "Definition of Done", no se puede presentar en la Sprint Review.
   
