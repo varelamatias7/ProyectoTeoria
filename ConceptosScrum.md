@@ -130,5 +130,75 @@ https://docs.google.com/document/d/1St2gGsp1rRw8gLAz63lNfPaTJFVUf5jB/edit?usp=sh
 Material cisco https://edube.org/learn/python-essentials-1-esp/fundamentos-de-python-1-m-oacute-dulo-2
 
 
+#  CURRICULUM VITAE: secciones a incluir
+Datos personales:
+
+·         Nombre y apellido.
+
+·         Número de documento.
+
+·         Fecha de nacimiento.
+
+·         Estado civil.
+
+·         Nacionalidad.
+
+·         Información de contacto: dirección, teléfono y correo electrónico.
+
+Experiencia laboral
+
+Si estás buscando tu primer trabajo, para completar esta sección de tu CV tené en cuenta:
+
+·         Pasantías, becas u otras formas que combinan los estudios con el trabajo.
+
+·         Prácticas remuneradas.
+
+·         Trabajos voluntarios en el barrio, parroquia, club u otra institución.
+
+·         Colaboraciones en comercios o trabajos para familiares, conocidos o vecinos.
+
+Si tenés experiencia laboral, detallá tus empleos anteriores. Es importante que sobre cada uno de ellos indiques:
+
+·         Nombre y rubro de la empresa o del empleador.
+
+·         Puesto ocupado.
+
+·         Año de ingreso y egreso.
+
+·         Breve punteo de las tareas desempeñadas.
+
+·         Formación académica
+
+Mencioná tus estudios, tanto los que están en curso como los que hayas terminado. Acordate de incluir la siguiente información:
+
+·         Título obtenido o estudios en curso.
+
+·         Nombre de la institución educativa.
+
+·         Año de graduación o último año de cursada.
+
+·         Formación complementaria
+
+También podés hacer referencia a otros cursos realizados, independientemente de los estudios académicos, que puedan resultar de interés para el puesto. Detallá:
+
+·         Nombre del curso.
+
+·         Institución donde lo hiciste.
+
+·         Año de cursada.
+
+·         Estado: en curso, finalizado, abandonado.
+
+·         Idiomas / Informática
+
+En estas dos secciones simplemente tenés que mencionar el idioma o programa que manejes y el nivel de conocimiento (básico, intermedio o avanzado).
+
+Intereses personales
+
+Esta sección es opcional y sirve para indicar intereses personales y actividades recreativas.
+
+En un puesto donde se requiera buen estado físico, puede ser útil aclarar que practicás algún deporte, por ejemplo. Pero no tiene ningún sentido informar que te gustan los videojuegos o escuchar música.
+
+
 
 
