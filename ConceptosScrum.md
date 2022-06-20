@@ -200,5 +200,30 @@ Esta sección es opcional y sirve para indicar intereses personales y actividade
 En un puesto donde se requiera buen estado físico, puede ser útil aclarar que practicás algún deporte, por ejemplo. Pero no tiene ningún sentido informar que te gustan los videojuegos o escuchar música.
 
 
+#Modelos de curriculum vitae
+Modelos de currículum
+
+Hay dos formatos que son los más utilizados para elaborar un CV y se diferencian en la manera de organizar la información:
+
+1 - Cronológico: los datos se ordenan de manera temporal. Primero va lo más actual, para
+
+que quien los lea pueda ver rápidamente tu trayectoria y tu progreso. Este es el formato que
+
+más se usa.
+
+¿Cuándo utilizarlo?
+
+ Cuando tu experiencia laboral reciente sea similar a la del puesto de trabajo al que te estás presentando.
+
+Si tu experiencia laboral fue llevándote a ocupar puestos cada vez más calificados y con mayor responsabilidad y querés destacar este crecimiento.
+
+2 - Funcional: se pone foco y se agrupa la información en los conocimientos adquiridos, funciones, tareas desempeñadas y no tanto en la experiencia laboral reciente.
+
+¿Cuándo utilizarlo?
+
+Cuando quieras destacar las habilidades y experiencias en un área determinada.
+
+Cuando tengas “baches” laborales por haber estado mucho tiempo sin trabajar.
+
 
 
