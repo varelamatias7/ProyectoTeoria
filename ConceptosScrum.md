@@ -10,6 +10,7 @@
 5) Cristian Nicolás Ortiz. Se asignó tarea 9 y 10.
 6) Paloma Montani. Se asignó tarea 12 y 13.
 7) Alejandra Colqui Sueldo. Se asignó tarea 14 y 15. 
+8) Oscar. Se asignó tarea 16 y 17.
 
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
@@ -162,7 +163,19 @@ Python es capaz de hacer aplicaciones de interfaz gráfica por medio de ventajas
 
 https://docs.google.com/document/d/1brRkWMpxCvZIvgxFlRsKQs-av5-84g8Z/edit?usp=sharing&ouid=111486841225754569920&rtpof=true&sd=true
 
+## Tarea 16 - Inglés - Verbo TO BE 
 
+El verbo to be, cuyo significado es “ser estar o tener”, según el contexto, es seguramente el verbo más utilizado en la lengua inglesa y también el más importante. Se utiliza como verbo principal y como auxiliar, y es irregular en pasado y en presente.
+
+Por ese motivo, es muy importante conocer a la perfección este verbo, independientemente de en qué tiempo verbal se encuentre o con qué pronombre personal deba conjugarse.
+
+Más Info: https://www.abaenglish.com/es/verbos-ingles/to-be/
+
+## Tarea 17 - Inglés - Presente Simple 
+
+El presente simple, junto con el presente perfecto y el presente continuo, es una de las tres formas del presente que existen en inglés. Se escribe tomando la forma base del verbo para los pronombres I, you, we y they; y se le agrega una –s para la tercera persona del singular it, she y he.
+
+Más Info: https://trucoslondres.com/aprender-ingles/gramatica/presente-simple-ingles/
 
 #  CURRICULUM VITAE: secciones a incluir
 Datos personales:
