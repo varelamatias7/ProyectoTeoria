@@ -1,16 +1,15 @@
 # Inicio del Proyecto 1.
 
-#### SPRINT 0: Hacer presentacion individual de cada colaborador del equipo. (Lo mas pronto posible para terminar de cerrar el sprint)
+#### SPRINT 0: Hacer presentacion individual de cada colaborador del equipo. (Lo más pronto posible para terminar de cerrar el sprint)
 #### SPRINT 1: Tareas a hacer cada uno de los 10 colaboradores: Asignarse 2 tareas y realizarlas hasta el dia miercoles proximo 22/06 ya que la idea es cerrar el sprint cumpliendo con cierto plazo.
 
-1) Christian Murua. Se asignó tarea 1 y tarea 2.
-2) Lorena Delgado. Se asignó tarea 3 y tarea 4.
+1) Christian Murua. Se asignó tarea 1 y 2.
+2) Lorena Delgado. Se asignó tarea 3 y 4.
 3) Matías Oscar Varela. Se asignó tarea 5 y 6.
 4) Lucas de la Rosa. Se asignó tarea 7 y 8.
 5) Cristian Nicolás Ortiz. Se asignó tarea 9 y 10.
 6) Paloma Montani. Se asignó tarea 12 y 13.
 7) Alejandra Colqui Sueldo. Se asignó tarea 14 y 15. 
-8) Oscar. Se asignó tarea 16 y 17.
 
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
@@ -93,60 +92,70 @@ Material Resumen de [GITHUB](https://docs.google.com/presentation/d/1Zu3uagYlQju
 
 Clase Explicativa de [GITHUB](https://www.youtube.com/watch?v=T7FICkd1MAE&feature=youtu.be).
 
-## Tarea 7 - FUNDAMENTOS DE PROGRAMACIÓN 
+Sintaxis de escritura y formato básicos de [GITHUB DOCS](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
 
-Los ordenadores o computadoras han revolucionado todos los aspectos de la vida en los últimos 40 años. En la actualidad los encontramos en todos lados: escritorios de oficinas, aviones, microondas, teléfonos celulares, entre otros. Pero el equipo físico que podemos ver es solo la mitad de la historia. Cada una de estas computadoras también necesita un soporte lógico que le indique cómo realizar las tareas que esperamos que ejecute. Estas instrucciones se codifican en una gran variedad de lenguajes de programación. Cada uno tiene sus características específicas, sintaxis y mecanismos diferentes para llevar a cabo diversas tareas. Sin embargo, todos comparten un conjunto fundamental de características y conceptos que todas las personas interesadas en crear soluciones para resolver problemas mediante la programación deben dominar para poder desarrollar sus programas creando y comprendiendo su logica. 
+## Tarea 6 - GIT
+Definición de conceptos relacionado a GIT:
 
-Más info: https://es.wikiversity.org/wiki/Fundamentos_de_programaci%C3%B3n
+- ¿Qué es **GIT**?.
 
-## Tarea 8 - PROGRAMACIÓN ESTRUCTURADA 
+   Git es un **sistema de control de versiones (VCS)** distribuido **gratuito y de código abierto** diseñado para manejar desde proyectos pequeños a muy grandes,
+   con velocidad y eficiencia.
 
-La programación estructurada es un paradigma de programación orientado a mejorar la claridad, calidad y tiempo de desarrollo de un programa de computadora recurriendo únicamente a subrutinas y tres estructuras básicas: secuencia, selección (if y switch) e iteración (bucles for y while); asimismo, se considera innecesario y contraproducente el uso de la instrucción de transferencia incondicional (GOTO), que podría conducir a código espagueti, mucho más difícil de seguir y de mantener, y fuente de numerosos errores de programación.
+    ✔️ Nos permite conocer los cambios realizados en los programas o software que vamos desarrollando con el paso del tiempo. Administra las distintas versiones.
 
-Surgió en la década de 1960, particularmente del trabajo de Böhm y Jacopini, y un famoso escrito de 1968: «La sentencia goto, considerada perjudicial», de Edsger Dijkstra. Sus postulados se verían reforzados, a nivel teórico, por el teorema del programa estructurado y, a nivel práctico, por la aparición de lenguajes como ALGOL, dotado de estructuras de control consistentes y bien formadas. 
+    ✔️ Nace como necesidad de control para Kernel de Linux.
+ 
+    ✔️ Coordinar el trabajo entre los diferentes desarrolladores del equipo.
+ 
+    ✔️ Repositorio Locales y Remotos.
+    
+    🟢 **Git es un Sistema de control de Versiones _DISTRIBUIDO_**.  En inglés **DVCS** o (***distributed versión control system***).
+    
 
-Más info: https://es.wikipedia.org/wiki/Programaci%C3%B3n_estructurada
+- Ventajas de **GIT**.
 
-## Tarea 9 - Sistemas Gestores de Bases de Datos
-¿Qué es un Sistema Gestor de Bases de Datos?
-Un sistema gestor de base de datos o SGBD es un software que permite administrar una base de datos. Mediante este programa se puede utilizar, configurar y extraer información almacenada. Los usuarios pueden acceder a la información usando herramientas específicas de consulta y de generación de informes, o bien mediante aplicaciones al efecto.
+   ✔️ Sitesma distribuido, que permite el trabajo incluso sin conexión.
+   
+   ✔️ Super rápido y ligero, optimizado para hacer operaciones de control muy rápidas.
+   
+   ✔️ Crear ramas y mezclarlas poco propenso a problemas.
+   
+   ✔️ La integridad de la información está asegurada gracias a su modelo de almacenamiento, que permite predecir este tipo de problemas.
+   
+   ✔️ Permite flujos de trabajo muy flexibles.
+   
+   ✔️ El concepto de área de preparación o *staging* permite versionar los cambios como nos convenga, no todo o nada.
+   
+   ✔️ Operaciones locales.
+   
+   ✔️ Copias instantáneas.
 
-Estos sistemas también proporcionan métodos para mantener la integridad de los datos, para administrar el acceso de usuarios a los datos y para recuperar la información si el sistema se corrompe. Permiten presentar la información de la base de datos en variados formatos. También pueden incluir un módulo gráfico que permita presentar la información con gráficos y tablas.
+- Comandos Básicos de **GIT**.
 
-Generalmente se accede a los datos mediante lenguajes de consulta, lenguajes de alto nivel que simplifican la tarea de construir las aplicaciones. Un SGBD permite controlar el acceso a los datos, asegurar su integridad, gestionar el acceso concurrente a ellos, recuperar los datos tras un fallo del sistema y hacer copias de seguridad. Las bases de datos y los sistemas para su gestión son esenciales para cualquier área de negocio.
+   ✔️ **git init.**
+    
+   ✔️ **git add (file).**
+    
+   ✔️ **git status.**
+    
+   ✔️ **git commit.**
+    
+   ✔️ **git push.**
 
-¿Cuáles son SGBD más usados?
-SGBD Relacionales: MySql / SQLite / PostgreSQL / SQL Server / Oracle / Microsoft Access
+   ✔️ **git pull.**
+    
+   ✔️ **git clone.**
 
-SGBD No Relacionales: MongoDB / Redis / AzureDB / Cassandra / DynamoDB / CouchDB 
 
-## Tarea 10 - El Dilema de las Redes Sociales
-¿De qué trata el documental " El Dilema de las Redes Sociales?
-Este documental está basado en testimonios de ex empleados de Google, Facebook, Twitter, Instagram y Pinterest que cuentan cómo participaron del desarrollo de tecnologías que sirvieron para polarizar opiniones, viralizar teorías conspirativas y consumir todo lo que dictan las pantallas. Desinformación, opiniones polarizadas, la necesidad imperiosida de agradar al otro y la adicción a las pantallas son algunas de las consecuencias nocivas que llegaron de la mano de los gigantes informáticos.
+Material de lectura de [GIT](https://drive.google.com/file/d/1CF_MYiCKuUcdN2rdNBqQqCAIbE7NEVZF/view)
 
-Netflix define a esta producción como un “híbrido entre documental y drama que ahonda en el negocio de las redes sociales, el poder que ejercen y la adicción que generan en nosotros: su carnada perfecta".
+Material de [Git y GitHub](https://docs.google.com/presentation/d/e/2PACX-1vRVB4P-n8zfz_Fj1s22cEmHktgF9uUzI1KmKk3-8wiCZjKMqdDV2QiRSB5pdfs24w/pub?start=true&loop=true&delayms=30000&slide=id.p1) para instalar en sus PC el *Sistema de Control de Versiones GIT*
 
-El usuario tiene una necesidad imperiosa de recibir una recompensa que llega en forma de comentario, un “me gusta”, un retuit o un feed que se va actualizando de manera continua. Las empresas han creado plataformas que buscan sacar provecho de esa dopamina, un neurotransmisor que participa en la motivación y recompensa ante estímulos placenteros, que se estimula cuando llega una notificación que indica que alguien se fijó en nosotros.
+[Video Encuentro Sincrónico Uso de Git](https://www.youtube.com/watch?v=yOZmcZZ1kQw)
 
-Reflexiones sobre el documental
-"Hay dos industrias que llaman a sus clientes usuarios: la de las drogas ilegales y la del software".
+Aprende *ramas* en Git de forma interactiva [Learn Git Branching](https://learngitbranching.js.org/?locale=es_ES)
 
-Las Redes Sociales son herramientas diseñadas para engancharnos y manipularnos.
-
-"Si no pagas por el producto, el producto eres tú". Solo durante la pandemia de coronavirus, el fundador de Facebook habría ganado más de US$30.000 millones.
-
-¿Cómo habría podido Zuckerberg ofrecer servicios gratuitos y hacerse más rico cada día? Según los entrevistados de "El dilema de las redes sociales", el estadounidense y sus colegas jefes ejecutivos ganan dinero con el tiempo. Explican que cuantas más horas pasa un usuario conectado a sus redes sociales, más información detallada sobre hábitos, gustos y características de consumo acaba exponiendo. Estos datos son recopilados y organizados mediante algoritmos que mapean los me gusta y los comentarios, analizan los tiempos de lectura y la exposición a las imágenes, y alimentan enormes servidores. Luego, se ofrece información sobre los usuarios a los clientes, desde marcas de cosméticos y universidades hasta políticos y gobiernos, que pagan millones de dólares por mostrar productos o ideas a audiencias que estén dispuestas a participar.
-
-Consejos para protegerse
-Las notificaciones serían la principal herramienta de manipulación en las redes. La sugerencia de los entrevistados es deshabilitarlas, para acceder la red social cuando uno lo desee, y no al revés.
-
-No embarcarse en las recomendaciones de videos o contenidos sin reflexionar. Preferiblemente, haz las búsquedas tú mismo de lo que te interesa. Las referencias suelen seguir una lógica diseñada para llamar a los anunciantes, y no necesariamente para informar.
-
-Sigue a personas o páginas con las que no estás de acuerdo. Así "explotas la burbuja" y te animas a profundizar en el conocimiento, a cuestionarte sobre certezas absolutas y a aprender de las diferencias, incluso si te disgustan.
-
-Desconecta una hora antes de acostarse. Deja tu teléfono, tableta y computadora portátil en otra habitación y en modo avión.
-
-Valora tus clics y tu tiempo. La forma en que te relacionas con una publicación vale "oro". Así es como las redes ganan dinero, así que ten esto en cuenta antes de hacer clic en un anuncio o publicación.
 
 ## TAREA 11 - TUTORIAL PARA PROYECTO EN GITHUB
 
@@ -204,19 +213,7 @@ Python es capaz de hacer aplicaciones de interfaz gráfica por medio de ventajas
 
 https://docs.google.com/document/d/1brRkWMpxCvZIvgxFlRsKQs-av5-84g8Z/edit?usp=sharing&ouid=111486841225754569920&rtpof=true&sd=true
 
-## Tarea 16 - Inglés - Verbo TO BE 
 
-El verbo to be, cuyo significado es “ser estar o tener”, según el contexto, es seguramente el verbo más utilizado en la lengua inglesa y también el más importante. Se utiliza como verbo principal y como auxiliar, y es irregular en pasado y en presente.
-
-Por ese motivo, es muy importante conocer a la perfección este verbo, independientemente de en qué tiempo verbal se encuentre o con qué pronombre personal deba conjugarse.
-
-Más Info: https://www.abaenglish.com/es/verbos-ingles/to-be/
-
-## Tarea 17 - Inglés - Presente Simple 
-
-El presente simple, junto con el presente perfecto y el presente continuo, es una de las tres formas del presente que existen en inglés. Se escribe tomando la forma base del verbo para los pronombres I, you, we y they; y se le agrega una –s para la tercera persona del singular it, she y he.
-
-Más Info: https://trucoslondres.com/aprender-ingles/gramatica/presente-simple-ingles/
 
 #  CURRICULUM VITAE: secciones a incluir
 Datos personales:
