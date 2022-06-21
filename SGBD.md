@@ -17,17 +17,17 @@ Las bases de datos y los sistemas para su gestión son esenciales para cualquier
 ### ¿Cuáles son SGBD más usados?
 
 SGBD Relacionales:
-    MySql
-    SQLite
-    PostgreSQL
-    SQL Server
-    Oracle
+    MySql /
+    SQLite /
+    PostgreSQL /
+    SQL Server /
+    Oracle /
     Microsoft Access
 
 SGBD No Relacionales:
-    MongoDB
-    Redis
-    AzureDB
-    Cassandra
-    DynamoDB
-    CouchDB
+    MongoDB /
+    Redis /
+    AzureDB /
+    Cassandra /
+    DynamoDB /
+    CouchDB /
