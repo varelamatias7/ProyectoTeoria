@@ -63,6 +63,18 @@ Existen 4 tipos de ceremonias en Scrum que son:
    
 Link al documento de cátedra: https://drive.google.com/file/d/1pWzqXT_frVxdZ9GMLL0FNbEOYceqR0V5/view?usp=sharing
 
+## Tarea 4 - Base de Datos
+
+** CONCEPTO DE BASE DE DATOS:**  
+Una base de datos es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto. A medida que la lista aumenta su tamaño, empiezan a aparecer redundancias e inconsistencias en los datos. Cada vez es más difícil comprender los datos en forma de lista y los métodos de búsqueda o extracción de subconjuntos de datos para revisión son limitados. Una vez que estos problemas comienzan a aparecer, una buena idea es transferir los datos a una base de datos creada con un sistema de administración de bases de datos (DBMS).
+** PARTES DE UNA BASE DE DATOS:**  
+- ** Tablas
+- ** Consultas
+- ** Formularios
+- ** Informes
+
+
+
 
 ## Tarea 5 - GITHUB
 Definición de conceptos relacionado a GitHub:
