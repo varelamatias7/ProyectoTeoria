@@ -127,32 +127,27 @@ Lo vemos todos los días y en casi todas partes. Se utiliza ampliamente para imp
 Material 
 https://docs.google.com/document/d/1St2gGsp1rRw8gLAz63lNfPaTJFVUf5jB/edit?usp=sharing&ouid=111486841225754569920&rtpof=true&sd=true
 
-##Tarea 15 Phyton y desarrollo web
+## TAREA 15 - PHYTON Y DESARROLLO WEB
 
-Desarrollo Web en Python.
 El desarrollo web en Python no siempre es la elección principal para construir el lado del servidor de los sitios web. Este lenguaje es multipropósito, lo que significa que es utilizable en la mayoría de los campos de programación.
-
 Por ejemplo, los expertos promueven el Python como el lenguaje ideal para el aprendizaje automático y la creación de redes neuronales. Además, Python es también la elección estándar para realizar análisis de conjuntos de datos a gran escala para averiguar las tendencias del mercado, los precios medios y predecir patrones futuros.
-
 Sin embargo, Python para el desarrollo web es también una sólida opción, atrayendo a la gente con su sintaxis simple, una variedad de marcos de trabajo, y un fuerte ecosistema general. Instagram, una de las redes sociales dominantes, utiliza Python para su plataforma, recibiendo millones de visitantes al día.
 
 Pros de Desarrollo web en Python
-Construir un sitio web con Python significa que se produce un código responsable de ejecutarse en el servidor en lugar de en el navegador. La creación del lado del servidor o del backend de su sitio web es crucial para almacenar la información del usuario (como uno de los ejemplos).
 
+Construir un sitio web con Python significa que se produce un código responsable de ejecutarse en el servidor en lugar de en el navegador. La creación del lado del servidor o del backend de su sitio web es crucial para almacenar la información del usuario (como uno de los ejemplos).
 El backend también gestiona la forma en que la información viaja hacia y desde el servidor. Adicionalmente, Python para el desarrollo web será el que controle la autenticación de los usuarios. Construir el lado del servidor no es una tarea complicada, pero asegurar la estabilidad y seguridad de los procedimientos puede llevar mucho tiempo. Por lo tanto, los frameworks son especialmente útiles para cubrir todos estos aspectos.
 
 Principales áreas de uso de Python
+
 Python es un lenguaje de propósito general y multiplataforma, con una completa gama de funcionalidades y bibliotecas para la realización de todo tipo de trabajos. Por ello, los usos del lenguaje son amplios. Sin embargo, la potencia del lenguaje en términos de rendimiento y capacidad de trabajar con gran cantidad de datos, lo hacen muy habitual en el ámbito científico, big data e inteligencia artificial.
-
 También Python se usa bastante a nivel de web, junto con frameworks como Django o Flask, que permiten realizar sitios basados en contenido con acceso a base de datos y por supuesto servicios web API REST. Debido a las capacidades de Python, se suele elegir para proyectos de embergadura, que requieran el tratamiento de grandes cantidades de información o usuarios. No se suele usar Python para la web sin poner por encima algún framework, aunque también sería posible, pero no tan directo como lenguajes que directamente devuelven HTML como PHP.
-
-Python también es capaz de hacer aplicaciones de interfaz gráfica por medio de ventajas, aunque no es tan usado en este área como en la creación de programas de consola. También existen diversos entornos de ejecución de Python que permiten crear programas que se escriben y se ejecutan en el mismo ambiente, como los Jupyter Notebooks, lo que permite usar Python sin necesitar trabajar con IDEs o terminal, mejorando las prestaciones en la creación de programas o scripts para inteligencia artificial o big data.
+Python es capaz de hacer aplicaciones de interfaz gráfica por medio de ventajas, aunque no es tan usado en este área como en la creación de programas de consola. También existen diversos entornos de ejecución de Python que permiten crear programas que se escriben y se ejecutan en el mismo ambiente, como los Jupyter Notebooks, lo que permite usar Python sin necesitar trabajar con IDEs o terminal, mejorando las prestaciones en la creación de programas o scripts para inteligencia artificial o big data.
 
 Principales áreas de uso de Python
+
 Python es un lenguaje de propósito general y multiplataforma, con una completa gama de funcionalidades y bibliotecas para la realización de todo tipo de trabajos. Por ello, los usos del lenguaje son amplios. Sin embargo, la potencia del lenguaje en términos de rendimiento y capacidad de trabajar con gran cantidad de datos, lo hacen muy habitual en el ámbito científico, big data e inteligencia artificial.
-
 También Python se usa bastante a nivel de web, junto con frameworks como Django o Flask, que permiten realizar sitios basados en contenido con acceso a base de datos y por supuesto servicios web API REST. Debido a las capacidades de Python, se suele elegir para proyectos de embergadura, que requieran el tratamiento de grandes cantidades de información o usuarios. No se suele usar Python para la web sin poner por encima algún framework, aunque también sería posible, pero no tan directo como lenguajes que directamente devuelven HTML como PHP.
-
 Python también es capaz de hacer aplicaciones de interfaz gráfica por medio de ventajas, aunque no es tan usado en este área como en la creación de programas de consola. También existen diversos entornos de ejecución de Python que permiten crear programas que se escriben y se ejecutan en el mismo ambiente, como los Jupyter Notebooks, lo que permite usar Python sin necesitar trabajar con IDEs o terminal, mejorando las prestaciones en la creación de programas o scripts para inteligencia artificial o big data.
 
 
