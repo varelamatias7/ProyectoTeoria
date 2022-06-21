@@ -63,18 +63,57 @@ Existen 4 tipos de ceremonias en Scrum que son:
    
 Link al documento de cátedra: https://drive.google.com/file/d/1pWzqXT_frVxdZ9GMLL0FNbEOYceqR0V5/view?usp=sharing
 
-## Tarea 4 - Base de Datos
+## Tarea 4 - CONCEPTOS DE BASE DE DATOS
 
-** CONCEPTO DE BASE DE DATOS:**  
+**CONCEPTO DE BASE DE DATOS y SQL:**  
 Una base de datos es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto. A medida que la lista aumenta su tamaño, empiezan a aparecer redundancias e inconsistencias en los datos. Cada vez es más difícil comprender los datos en forma de lista y los métodos de búsqueda o extracción de subconjuntos de datos para revisión son limitados. Una vez que estos problemas comienzan a aparecer, una buena idea es transferir los datos a una base de datos creada con un sistema de administración de bases de datos (DBMS).
-** PARTES DE UNA BASE DE DATOS:**  
-- ** Tablas
-- ** Consultas
-- ** Formularios
-- ** Informes
-
-
-
+**PARTES DE UNA BASE DE DATOS:**  
+- **Tablas
+- **Consultas
+- **Informes
+**SQL:**  
+Es un lenguaje de modelado de datos universal para manipular bases de datos relacionales.
+Es el sistema de gestión de base de datos (SGBD) de código abierto más utilizado. Actualmente es desarrollado, distribuido y respaldado por ORacle Corporation, que ofrece una versión comercial (MySQL Enterprise). Está escrito en C y C++ y está disponible para múltiples plataformas.
+**DDL (Lenguaje de definición de datos):**  
+Permite definir y modificar la base de datos a nivel estructura, es decir, crear bases de datos, crear tabls, modificar tablas. 
+**DML (Lenguaje de manipulación de datos):**  
+Se refiere a las sentencias que permiten manipular los datos, por ejemplo, agregar registros, mdificar o mostrar registros de una tabla. 
+**MODELO RELACIONAL:**  
+El modelo relacional, para el modelado y la gestión de bases de datos, es un modelo de datos basado en la lógica de predicados y en la teoría de conjuntos.
+Su idea fundamental es el uso de relaciones. Estas relaciones podrían considerarse en forma lógica como conjuntos de datos llamados tuplas. Pese a que esta es la teoría de las bases de datos relacionales creadas por Codd, la mayoría de las veces se conceptualiza de una manera más fácil de imaginar, pensando en cada relación como si fuese una tabla que está compuesta por registros (cada fila de la tabla sería un registro o “tupla”) y columnas (también llamadas “campos”).
+Es el modelo más utilizado en la actualidad para modelar problemas reales y administrar datos dinámicamente.
+El modelo relacional desarrolla un esquema de base de datos (data base schema) a partir del cual se podrá realizar el modelo físico o de implementación en el DBMS.
+Este modelo esta basado en que todos los datos están almacenados en tablas (entidades/relaciones) y cada una de estas es un conjunto de datos, por tanto una base de datos es un conjunto de relaciones. La agrupación se origina en la tabla: tabla -> fila (tupla) -> campo (atributo).
+El Modelo Relacional se ocupa de:
+- La estructura de datos
+- La manipulación de datos
+- La integridad de los datos
+Donde las relaciones están formadas por:
+- Atributos (columnas)
+- Tuplas (Conjunto de filas)
+**MODELO ENTIDAD RELACIÓN:**  
+Es el modelo conceptual más utilizado para el diseño conceptual de bases de datos. Fue creado por Peter Chen en 1976, Y está formado por un conjunto de conceptos que permiten describir la realidad mediante un conjunto de representaciones gráficas y lingüísticas.
+**ENTIDAD:**  
+Es cualquier tipo de objeto o concepto sobre el que se recoge información: cosa, persona, concepto abstracto o suceso. Por ejemplo: coches, casas, empleados, clientes, empresas, oficios, diseños de productos, conciertos, excursiones, etc. Las entidades se representan gráficamente mediante rectángulos y su nombre aparece en el interior. Un nombre de entidad sólo puede aparecer una vez en el esquema conceptual. Hay dos tipos de entidades: fuertes y débiles. Una entidad débil es una entidad cuya existencia depende de la existencia de otra entidad. Una entidad fuerte es una entidad que no es débil.
+**RELACIÓN:**  
+Es una correspondencia o asociación entre dos o más entidades. Cada relación tiene un nombre que describe su función. Las relaciones se representan gráficamente mediante rombos y su nombre aparece en el interior.
+**TIPOS DE RELACIONES:**  
+- **Binarias:**  
+Son las relaciones típicas. Se trata de relaciones que asocian dos entidades.
+- **Ternarias:**  
+Relacionan tres entidades. A veces se pueden simplificar en relaciones binarias, pero no siempre es posible. 
+- **Relaciones n-arias:**  
+Relacionan n entidades 
+- **Dobles:**  
+Se llaman así a dos relaciones distintas que sirven para relacionar a las mismas relaciones. Son las más difíciles de manejar ya que al manipular las entidades hay que elegir muy bien la relacionan a utilizar para relacionar los datos. 
+- **Reflexiva:**  
+Es una relación que sirve para relacionar ejemplares de la misma entidad (personas con personas, piezas con piezas, etc.)
+**CARDINALIDAD:**  
+Indica el número de relaciones en las que una entidad puede aparecer. Se anota en términos de: 
+- **Cardinalidad mínima:**  
+Indica el número mínimo de asociaciones en las que aparecerá cada ejemplar de la entidad (el valor que se anota es de cero o uno, aunque tenga una cardinalidad mínima de más de uno, se indica sólo un uno).
+- **Cardinalidad máxima:**  
+Indica el número máximo de relaciones en las que puede aparecer cada ejemplar de la entidad. Puede ser uno, otro valor concreto mayor que uno (tres por ejemplo) o muchos (se representa con n). Normalmente la cardinalidad máxima es 1 ó n
 
 ## Tarea 5 - GITHUB
 Definición de conceptos relacionado a GitHub:
