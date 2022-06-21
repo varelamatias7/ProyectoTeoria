@@ -10,6 +10,7 @@
 5) Cristian Nicolás Ortiz. Se asignó tarea 9 y 10.
 6) Paloma Montani. Se asignó tarea 12 y 13.
 7) Alejandra Colqui Sueldo. Se asignó tarea 14 y 15. 
+8) Oscar Lujan. Se asignó tarea 16 y 17
 
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
