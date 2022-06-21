@@ -92,6 +92,20 @@ Material Resumen de [GITHUB](https://docs.google.com/presentation/d/1Zu3uagYlQju
 
 Clase Explicativa de [GITHUB](https://www.youtube.com/watch?v=T7FICkd1MAE&feature=youtu.be).
 
+## Tarea 7 - FUNDAMENTOS DE PROGRAMACIÓN 
+
+Los ordenadores o computadoras han revolucionado todos los aspectos de la vida en los últimos 40 años. En la actualidad los encontramos en todos lados: escritorios de oficinas, aviones, microondas, teléfonos celulares, entre otros. Pero el equipo físico que podemos ver es solo la mitad de la historia. Cada una de estas computadoras también necesita un soporte lógico que le indique cómo realizar las tareas que esperamos que ejecute. Estas instrucciones se codifican en una gran variedad de lenguajes de programación. Cada uno tiene sus características específicas, sintaxis y mecanismos diferentes para llevar a cabo diversas tareas. Sin embargo, todos comparten un conjunto fundamental de características y conceptos que todas las personas interesadas en crear soluciones para resolver problemas mediante la programación deben dominar para poder desarrollar sus programas creando y comprendiendo su logica. 
+
+Más info: https://es.wikiversity.org/wiki/Fundamentos_de_programaci%C3%B3n
+
+## Tarea 8 - PROGRAMACIÓN ESTRUCTURADA 
+
+La programación estructurada es un paradigma de programación orientado a mejorar la claridad, calidad y tiempo de desarrollo de un programa de computadora recurriendo únicamente a subrutinas y tres estructuras básicas: secuencia, selección (if y switch) e iteración (bucles for y while); asimismo, se considera innecesario y contraproducente el uso de la instrucción de transferencia incondicional (GOTO), que podría conducir a código espagueti, mucho más difícil de seguir y de mantener, y fuente de numerosos errores de programación.
+
+Surgió en la década de 1960, particularmente del trabajo de Böhm y Jacopini, y un famoso escrito de 1968: «La sentencia goto, considerada perjudicial», de Edsger Dijkstra. Sus postulados se verían reforzados, a nivel teórico, por el teorema del programa estructurado y, a nivel práctico, por la aparición de lenguajes como ALGOL, dotado de estructuras de control consistentes y bien formadas. 
+
+Más info: https://es.wikipedia.org/wiki/Programaci%C3%B3n_estructurada
+
 ## TAREA 11 - TUTORIAL PARA PROYECTO EN GITHUB
 
 Se adjunta link al documento tutorial: 
