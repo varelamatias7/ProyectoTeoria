@@ -28,18 +28,17 @@ La información almacenada en variables y procesada por instrucciones puede ser 
 - lista : ['dll', 'dm', 'x', 'dj', 'dv', 'dss', 'dg']
 - tupla : ('dll', 'dm', 'x', 'dj', 'dv', 'dss', 'dg')
 - diccionario : {'Ana':20, 'Bob':40, 'Pep':30}
-- 
+ 
 ● Comentarios:
 Los comentarios son un texto que añadimos al programa y que, a diferencia de las instrucciones, no se ejecuta. Su único propósito es aportar información a las personas que lean el código fuente del programa. El compilador o intérprete ignora los comentarios. En Python tenemos comentarios de una línea:  
 instrucción # comentario
-Por ejemplo:
- # Esto es un comentario
+*Por ejemplo: # Esto es un comentario
 Y también tenemos comentarios de varias líneas:
- ''' comentarios '''
-Por ejemplo:
- ''' Este comentario
- comenzó en la línea de arriba
- y acaba en esta línea '''
+''' comentarios '''
+*Por ejemplo:
+''' Este comentario
+comenzó en la línea de arriba
+y acaba en esta línea '''
  
 ● Asignación:
  variable = expresión
@@ -58,7 +57,7 @@ La instrucción de asignación evalúa una expresión “a la derecha del =” y
 
 ● Operadores:
 - aritméticos: + , - , * , / , // , % , **
-- lógicos: < , <= , > , >= , == , != , and , or , not
+- lógicos: < , <= , > , >= , == , != , and , or , not.
 En caso de no recordar la precedencia, puedes utilizar paréntesis para agrupar operaciones.
 
 ● Conversión entre tipos de datos:
@@ -67,25 +66,25 @@ En caso de no recordar la precedencia, puedes utilizar paréntesis para agrupar 
 - a cadena (tipo de datos “string”): str(25.5)
 
 ● Entrada por teclado:
- variable = input('texto a imprimir')
-Por ejemplo:
- nombre = input('¿Cómo te llamas? ')
- edad = int( input('¿Cuántos años tienes? ') )
- r = float( input('¿Qué mide el radio? ') )
+variable = input('texto a imprimir')
+*Por ejemplo:
+nombre = input('¿Cómo te llamas? ')
+edad = int( input('¿Cuántos años tienes? ') )
+r = float( input('¿Qué mide el radio? ') )
  
 ● Salida por consola:
- print('text a imprimir', variables, ...)
+print('text a imprimir', variables, ...)
 Por ejemplo:
- print('Hola', nombre)
- print(a, b, c, sep='|', end=' ')
- print('resultado','\t',3*5,'\n')
- print('''
- Este texto
- ocupa varias líneas
- ''')
- print('El nombre es %s y la edad %d años' % (nombre, edad))
- print(f'El nombre es {nombre} y la edad {edad} años')
- print(f'Área: {(PI*r*r):7.2f}')
+print('Hola', nombre)
+print(a, b, c, sep='|', end=' ')
+print('resultado','\t',3*5,'\n')
+print('''
+Este texto
+ocupa varias líneas
+''')
+print('El nombre es %s y la edad %d años' % (nombre, edad))
+print(f'El nombre es {nombre} y la edad {edad} años')
+print(f'Área: {(PI*r*r):7.2f}')
 
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
