@@ -363,5 +363,29 @@ Cuando quieras destacar las habilidades y experiencias en un área determinada.
 
 Cuando tengas “baches” laborales por haber estado mucho tiempo sin trabajar.
 
+**Tarea 19 - Tipos de bases de datos**
+Existen diferentes tipos de bases de datos y a continuación se mencionaran los más relevantes.
+
+-Base de datos relaciona:
+Utilizan el modelo relacional y es mejor usarlas cuando los datos a utilizar son consistentes y ya tienen estructura planificada.
+
+-Base de  datos orientadas a objetos:
+Se basan en la programación orientada a objetos, por lo que los datos y todos sus atributos, están unidos como un objeto.
+Se gestionan mediante sistemas de gestion de bases de datos orientados a objetos (OODBMS-OBJECT ORIENTED DATA BASE MANAGEMENT SYSTEM).
+Funcionan bien con lenguajes de programación como C++ y Java.
+
+-Bases de datos jerárquicas:
+Fueron originalmente un esfuerzo por parte de IBM a principio de  los años 60.
+Se usan generalmente para soportar aplicaciones de alto rendimiento y alta disponibilidad.
+Almacenan la información en una estructura que enlaza los registros en forma de estructura de árbol, donde un nodo padre de información puede tener varios nodos hijo y  así sucesivamente.
+
+Lasbases de datos también se pueden clasificar según su almacenamiento en :
+
+-Bases de datos centralizada:
+Es una BD almacenada en su totalidad en un solo lugar físico, es decir, unas sola maquina y una sola cpu, en donde los usuarios trabajan en terminales que solo muestran resultados.
+
+-Bases de datos distribuidas:
+Un conjunto de múltiples BD  lógicamente relacionadas las cuales se encuentran distribuidas en diferentes espacios lógicos y geográficos e interconectados por unared de comunicaciones.
+
 
 
