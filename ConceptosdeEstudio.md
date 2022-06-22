@@ -9,7 +9,87 @@
 4) Lucas de la Rosa. Se asignó tarea 7 y 8.
 5) Cristian Nicolás Ortiz. Se asignó tarea 9 y 10.
 6) Paloma Montani. Se asignó tarea 12 y 13.
-7) Alejandra Colqui Sueldo. Se asignó tarea 14 y 15. 
+7) Alejandra Colqui Sueldo. Se asignó tarea 14 y 15.
+
+## Tarea 1 - ALGUNOS CONCEPTOS BASICOS DE PROGRAMACION EN PYTHON
+
+● Variables:
+Un programa está compuesto por instrucciones que operan sobre información, y por dicha
+información, que se almacena en celdas de memoria llamadas variables a las que se accede a
+través de un nombre.
+En Python el nombre de una variable puede contener letras, cifras, y símbolos unicode, pero no
+puede comenzar por un número, ni contener operadores, ni ser una palabra reservada del
+lenguaje de programación. Por ejemplo: i , año , x1, dni_alumno.
+● Tipos de datos:
+La información almacenada en variables y procesada por instrucciones puede ser de varios tipos.
+En Python estos son:
+- int : 5 , 0x10 , 0b10 , 123123123123123123123123123123123123123123123123
+- float : 0.5 , 0.5e7 , 1.79e308 , 1.8e308 , -1.8e308 , 5e-324 , 1e-325
+- complex : 0.5 + 2j
+- boolean : True / False
+- string : 'hola mon' , "hola mon" , '' , 'hola\tadeu\n'
+- lista : ['dll', 'dm', 'x', 'dj', 'dv', 'dss', 'dg']
+- tupla : ('dll', 'dm', 'x', 'dj', 'dv', 'dss', 'dg')
+- diccionario : {'Ana':20, 'Bob':40, 'Pep':30}
+● Comentarios:
+Los comentarios son un texto que añadimos al programa y que, a diferencia de las instrucciones,
+no se ejecuta. Su único propósito es aportar información a las personas que lean el código fuente
+del programa. El compilador o intérprete ignora los comentarios.
+En Python tenemos comentarios de una línea:
+ instrucción # comentario
+16
+Por ejemplo:
+ # Esto es un comentario
+Y también tenemos comentarios de varias líneas:
+ ''' comentarios '''
+Por ejemplo:
+ ''' Este comentario
+ comenzó en la línea de arriba
+ y acaba en esta línea '''
+● Asignación:
+ variable = expresión
+Por ejemplo:
+ x = 4
+ x = y = 0
+ x , y = 4 , 5
+ x , y = [4 , 5]
+ z = x - y
+ a = 'hola'
+ b = 'ase'
+ c = a + ' k ' + b
+ d = '-' * 100
+ e = f'El resultado es {x}'
+La instrucción de asignación evalúa una expresión “a la derecha del =” y la almacena en la
+variable “a la izquierda del =”, modificando el contenido de dicha variable. No confundir el =
+con una comparación o equivalencia.
+● Operadores:
+- aritméticos: + , - , * , / , // , % , **
+- lógicos: < , <= , > , >= , == , != , and , or , not
+En caso de no recordar la precedencia, puedes utilizar paréntesis para agrupar operaciones.
+● Conversión entre tipos de datos:
+- a entero (tipo de datos “int”): int('25') , int(25.9) , round(25.9)
+17
+- a real (tipo de datos “float”): float('25.5') , float(25)
+- a cadena (tipo de datos “string”): str(25.5)
+● Entrada por teclado:
+ variable = input('texto a imprimir')
+Por ejemplo:
+ nombre = input('¿Cómo te llamas? ')
+ edad = int( input('¿Cuántos años tienes? ') )
+ r = float( input('¿Qué mide el radio? ') )
+● Salida por consola:
+ print('text a imprimir', variables, ...)
+Por ejemplo:
+ print('Hola', nombre)
+ print(a, b, c, sep='|', end=' ')
+ print('resultado','\t',3*5,'\n')
+ print('''
+ Este texto
+ ocupa varias líneas
+ ''')
+ print('El nombre es %s y la edad %d años' % (nombre, edad))
+ print(f'El nombre es {nombre} y la edad {edad} años')
+ print(f'Área: {(PI*r*r):7.2f}')
 
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
