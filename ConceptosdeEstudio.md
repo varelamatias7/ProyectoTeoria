@@ -86,6 +86,63 @@ print('El nombre es %s y la edad %d años' % (nombre, edad))
 print(f'El nombre es {nombre} y la edad {edad} años')
 print(f'Área: {(PI*r*r):7.2f}')
 
+## Tarea 2 - ALGUNOS CONCEPTOS MAS DE PROGRAMACION EN PYTHON
+Bucles: for y while, matriz, instruccion break y continue
+
+● Instrucción iterativa de condición inicial while … :
+ while condición:
+ instrucciones
+Las instrucciones “desplazadas” unos espacios bajo el while sólo se repiten si la condición es
+cierta. Cuando la condición deje de ser cierta no se ejecutarán más. Puede ser que no se ejecuten
+nunca, si de buen comienzo la condición es falsa. Por ejemplo:
+ i = 10
+ while i > 0:
+ print(i)
+ i = i - 1
+● Instrucción iterativa repetitiva for … :
+ for variable in lista / string / range(inicio, final, incremento):
+ instrucciones
+Las instrucciones “desplazadas” unos espacios bajo el for se ejecutan para todos los elementos
+de la lista, para todos los caracteres de la cadena de caracteres, o para todos los números del
+rango. La variable tomará cada uno de los valores, del primero al último, y entonces se
+ejecutarán las instrucciones de la iteración para dicho valor. Por ejemplo:
+ for i in range(10, 0, -1):
+ print(i)
+ for c in 'Hola mundo':
+ print(c)
+ for e in ['manzana', 'fresa', 'platano']:
+ print(e, len(e))
+Otros ejemplos más complejos:
+ a = ['Mary', 'had', 'a', 'little', 'lamb']
+ for i in range(len(a)):
+ print(i, a[i])
+ for x in range(1, 11):
+ for y in range(1, 11):
+ print(f'{x:2} * {y:2} = {(x*y):3}')
+ print()
+ 
+ matriz = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+ for lista in matriz:
+ for elem in lista:
+ print(elem)
+ 
+● Instrucción break que finaliza bucles:
+Dicha instrucción sale inmediatamente del bucle while o for que se estaba ejecutando. El
+siguiente ejemplo escribe “s t r Adios”:
+ for val in 'string':
+ if val == 'i':
+ break # Finaliza las iteraciones
+ print(val)
+ print('Adios')
+● Instrucción continue que finaliza iteraciones:
+Dicha instrucción sale inmediatamente de la actual iteración del bucle while o for para pasar a
+la siguiente. El siguiente ejemplo escribe “s t r n g Adios”:
+ for val in 'string':
+ if val == 'i':
+ continue # Se va a la siguiente iteración sin acabar esta
+ print(val)
+ print('Adios')
+
 
 ## Tarea 3 - CONCEPTOS DE SCRUM 
 Definición de conceptos vinculados a la metodología "Scrum". 
