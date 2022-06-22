@@ -67,10 +67,12 @@ Link al documento de cátedra: https://drive.google.com/file/d/1pWzqXT_frVxdZ9GM
 
 **BASE DE DATOS y SQL:**  
 Una base de datos es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto. A medida que la lista aumenta su tamaño, empiezan a aparecer redundancias e inconsistencias en los datos. Cada vez es más difícil comprender los datos en forma de lista y los métodos de búsqueda o extracción de subconjuntos de datos para revisión son limitados. Una vez que estos problemas comienzan a aparecer, una buena idea es transferir los datos a una base de datos creada con un sistema de administración de bases de datos (DBMS).  
+
 **PARTES DE UNA BASE DE DATOS:**  
 - **Tablas
 - **Consultas
 - **Informes  
+
 **SQL:**  
 Es un lenguaje de modelado de datos universal para manipular bases de datos relacionales.
 Es el sistema de gestión de base de datos (SGBD) de código abierto más utilizado. Actualmente es desarrollado, distribuido y respaldado por ORacle Corporation, que ofrece una versión comercial (MySQL Enterprise). Está escrito en C y C++ y está disponible para múltiples plataformas.  
@@ -90,7 +92,7 @@ El Modelo Relacional se ocupa de:
 - La integridad de los datos
 Donde las relaciones están formadas por:
 - Atributos (columnas)
-- Tuplas (Conjunto de filas)
+- Tuplas (Conjunto de filas)  
 **MODELO ENTIDAD RELACIÓN:**  
 Es el modelo conceptual más utilizado para el diseño conceptual de bases de datos. Fue creado por Peter Chen en 1976, Y está formado por un conjunto de conceptos que permiten describir la realidad mediante un conjunto de representaciones gráficas y lingüísticas.
 **ENTIDAD:**  
@@ -107,7 +109,7 @@ Relacionan n entidades 
 - **Dobles:**  
 Se llaman así a dos relaciones distintas que sirven para relacionar a las mismas relaciones. Son las más difíciles de manejar ya que al manipular las entidades hay que elegir muy bien la relacionan a utilizar para relacionar los datos. 
 - **Reflexiva:**  
-Es una relación que sirve para relacionar ejemplares de la misma entidad (personas con personas, piezas con piezas, etc.)
+Es una relación que sirve para relacionar ejemplares de la misma entidad (personas con personas, piezas con piezas, etc.)  
 **CARDINALIDAD:**  
 Indica el número de relaciones en las que una entidad puede aparecer. Se anota en términos de: 
 - **Cardinalidad mínima:**  
