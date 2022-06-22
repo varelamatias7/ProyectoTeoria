@@ -66,18 +66,18 @@ Link al documento de cátedra: https://drive.google.com/file/d/1pWzqXT_frVxdZ9GM
 ## Tarea 4 - CONCEPTOS DE BASE DE DATOS
 
 **BASE DE DATOS y SQL:**  
-Una base de datos es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto. A medida que la lista aumenta su tamaño, empiezan a aparecer redundancias e inconsistencias en los datos. Cada vez es más difícil comprender los datos en forma de lista y los métodos de búsqueda o extracción de subconjuntos de datos para revisión son limitados. Una vez que estos problemas comienzan a aparecer, una buena idea es transferir los datos a una base de datos creada con un sistema de administración de bases de datos (DBMS).
+Una base de datos es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto. A medida que la lista aumenta su tamaño, empiezan a aparecer redundancias e inconsistencias en los datos. Cada vez es más difícil comprender los datos en forma de lista y los métodos de búsqueda o extracción de subconjuntos de datos para revisión son limitados. Una vez que estos problemas comienzan a aparecer, una buena idea es transferir los datos a una base de datos creada con un sistema de administración de bases de datos (DBMS).  
 **PARTES DE UNA BASE DE DATOS:**  
 - **Tablas
 - **Consultas
-- **Informes
+- **Informes  
 **SQL:**  
 Es un lenguaje de modelado de datos universal para manipular bases de datos relacionales.
-Es el sistema de gestión de base de datos (SGBD) de código abierto más utilizado. Actualmente es desarrollado, distribuido y respaldado por ORacle Corporation, que ofrece una versión comercial (MySQL Enterprise). Está escrito en C y C++ y está disponible para múltiples plataformas.
+Es el sistema de gestión de base de datos (SGBD) de código abierto más utilizado. Actualmente es desarrollado, distribuido y respaldado por ORacle Corporation, que ofrece una versión comercial (MySQL Enterprise). Está escrito en C y C++ y está disponible para múltiples plataformas.  
 **DDL (Lenguaje de definición de datos):**  
-Permite definir y modificar la base de datos a nivel estructura, es decir, crear bases de datos, crear tabls, modificar tablas. 
+Permite definir y modificar la base de datos a nivel estructura, es decir, crear bases de datos, crear tabls, modificar tablas.  
 **DML (Lenguaje de manipulación de datos):**  
-Se refiere a las sentencias que permiten manipular los datos, por ejemplo, agregar registros, mdificar o mostrar registros de una tabla. 
+Se refiere a las sentencias que permiten manipular los datos, por ejemplo, agregar registros, mdificar o mostrar registros de una tabla.  
 **MODELO RELACIONAL:**  
 El modelo relacional, para el modelado y la gestión de bases de datos, es un modelo de datos basado en la lógica de predicados y en la teoría de conjuntos.
 Su idea fundamental es el uso de relaciones. Estas relaciones podrían considerarse en forma lógica como conjuntos de datos llamados tuplas. Pese a que esta es la teoría de las bases de datos relacionales creadas por Codd, la mayoría de las veces se conceptualiza de una manera más fácil de imaginar, pensando en cada relación como si fuese una tabla que está compuesta por registros (cada fila de la tabla sería un registro o “tupla”) y columnas (también llamadas “campos”).
