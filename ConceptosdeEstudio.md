@@ -12,17 +12,14 @@
 7) Alejandra Colqui Sueldo. Se asignó tarea 14 y 15.
 
 ## Tarea 1 - ALGUNOS CONCEPTOS BASICOS DE PROGRAMACION EN PYTHON
+Variables, tipos de datos, cometarios en python, asignaciones de valores, operadores, conversiones entre tipos de datos, entrada y salida por consola. 
 
 ● Variables:
-Un programa está compuesto por instrucciones que operan sobre información, y por dicha
-información, que se almacena en celdas de memoria llamadas variables a las que se accede a
-través de un nombre.
-En Python el nombre de una variable puede contener letras, cifras, y símbolos unicode, pero no
-puede comenzar por un número, ni contener operadores, ni ser una palabra reservada del
-lenguaje de programación. Por ejemplo: i , año , x1, dni_alumno.
+Un programa está compuesto por instrucciones que operan sobre información, y por dicha información, que se almacena en celdas de memoria llamadas variables a las que se accede a través de un nombre.
+En Python el nombre de una variable puede contener letras, cifras, y símbolos unicode, pero no puede comenzar por un número, ni contener operadores, ni ser una palabra reservada del lenguaje de programación. Por ejemplo: i , año , x1, dni_alumno.
+
 ● Tipos de datos:
-La información almacenada en variables y procesada por instrucciones puede ser de varios tipos.
-En Python estos son:
+La información almacenada en variables y procesada por instrucciones puede ser de varios tipos. En Python estos son:
 - int : 5 , 0x10 , 0b10 , 123123123123123123123123123123123123123123123123
 - float : 0.5 , 0.5e7 , 1.79e308 , 1.8e308 , -1.8e308 , 5e-324 , 1e-325
 - complex : 0.5 + 2j
@@ -31,13 +28,10 @@ En Python estos son:
 - lista : ['dll', 'dm', 'x', 'dj', 'dv', 'dss', 'dg']
 - tupla : ('dll', 'dm', 'x', 'dj', 'dv', 'dss', 'dg')
 - diccionario : {'Ana':20, 'Bob':40, 'Pep':30}
+- 
 ● Comentarios:
-Los comentarios son un texto que añadimos al programa y que, a diferencia de las instrucciones,
-no se ejecuta. Su único propósito es aportar información a las personas que lean el código fuente
-del programa. El compilador o intérprete ignora los comentarios.
-En Python tenemos comentarios de una línea:
- instrucción # comentario
-16
+Los comentarios son un texto que añadimos al programa y que, a diferencia de las instrucciones, no se ejecuta. Su único propósito es aportar información a las personas que lean el código fuente del programa. El compilador o intérprete ignora los comentarios. En Python tenemos comentarios de una línea:  
+instrucción # comentario
 Por ejemplo:
  # Esto es un comentario
 Y también tenemos comentarios de varias líneas:
@@ -46,6 +40,7 @@ Por ejemplo:
  ''' Este comentario
  comenzó en la línea de arriba
  y acaba en esta línea '''
+ 
 ● Asignación:
  variable = expresión
 Por ejemplo:
@@ -59,24 +54,25 @@ Por ejemplo:
  c = a + ' k ' + b
  d = '-' * 100
  e = f'El resultado es {x}'
-La instrucción de asignación evalúa una expresión “a la derecha del =” y la almacena en la
-variable “a la izquierda del =”, modificando el contenido de dicha variable. No confundir el =
-con una comparación o equivalencia.
+La instrucción de asignación evalúa una expresión “a la derecha del =” y la almacena en la variable “a la izquierda del =”, modificando el contenido de dicha variable. No confundir el = con una comparación o equivalencia.
+
 ● Operadores:
 - aritméticos: + , - , * , / , // , % , **
 - lógicos: < , <= , > , >= , == , != , and , or , not
 En caso de no recordar la precedencia, puedes utilizar paréntesis para agrupar operaciones.
+
 ● Conversión entre tipos de datos:
 - a entero (tipo de datos “int”): int('25') , int(25.9) , round(25.9)
-17
 - a real (tipo de datos “float”): float('25.5') , float(25)
 - a cadena (tipo de datos “string”): str(25.5)
+
 ● Entrada por teclado:
  variable = input('texto a imprimir')
 Por ejemplo:
  nombre = input('¿Cómo te llamas? ')
  edad = int( input('¿Cuántos años tienes? ') )
  r = float( input('¿Qué mide el radio? ') )
+ 
 ● Salida por consola:
  print('text a imprimir', variables, ...)
 Por ejemplo:
