@@ -352,7 +352,7 @@ https://drive.google.com/file/d/16zbNj-TficysD2MRCs8sV4ATs140L9iA/view?usp=shari
 
 La ética es una disciplina filosófica que se define como "principios directivos que orientan a las personas en cuanto a la concepción de la vida, el hombre, los juicios, los hechos, y la moral”.
 
-###Definición
+·Definición
 
    La ética en la informática es una nueva disciplina que pretende abrirse campo dentro de las éticas aplicadas por lo cual encontramos varias definiciones.  
    
@@ -362,7 +362,7 @@ La ética es una disciplina filosófica que se define como "principios directivo
 
 3_También se define a la EI "como la disciplina que identifica y analiza los impactos de las tecnologías de la información en los valores humanos y sociales" . Estos valores afectados son: la salud, la riqueza, el trabajo, la libertad, la democracia, el conocimiento, la privacidad, la seguridad o la autorrealización personal.
 
-###Objetivos de la EI (Ética Informática)
+·Objetivos de la EI (Ética Informática)
 
    Descubrir y articular dilemas éticos claves en informática. 
 Determinar en qué medida son agravados, transformados o creados por la tecnología informática. 
@@ -370,7 +370,7 @@ Analizar y proponer un marco conceptual adecuado y formular principios de actuac
 Utilizar la teoría ética para clarificar los dilemas éticos y detectar errores en el razonamiento ético. 
 Proponer un marco conceptual adecuado para entender los dilemas éticos que origina la informática y además establecer una guía cuando no existe reglamentación de dar uso a Internet. 
 
-###Los problemas éticos más significativos en Internet
+·Los problemas éticos más significativos en Internet
 
 -La privacidad: no tanto la posibilidad (real) de fallos en los sistemas de correo que provoquen mensajes que van a lugares equivocados, si no más bien la intromisión intencional. Esta intromisión puede ser desde la del compañero del trabajo que lee nuestro trabajo hasta el sistemático intervencionismo estatal.
 -La Identidad: es posible esconder la verdadera identidad a la hora de intervenir en una conversación. 
@@ -379,15 +379,15 @@ Proponer un marco conceptual adecuado para entender los dilemas éticos que orig
 
 ## Tarea 13 - LA MORAL
 
-###Definición
+·Definición
 
 Se refiere a los códigos de normas impuestos por una sociedad para regular la conducta o el comportamiento de los individuos. Abarca reglas tradiciones y valores compartidas por una sociedad en determinado momento de su historia. Se dice que una persona es moral cuando actúa de acuerdo a las normas costumbres y valores de su sociedad. Aunque estos pueden estar en contra de la ética de esa misma persona.
 
-###Campo de uso
+·Campo de uso
 
 Los códigos morales se aplican a la vida cotidiana y a la conducta humana, nos dice como es el modo correcto de actuar en cada situación y lugar. En este sentido es la sociedad inmersa en una cultura determinada la que establece el código moral, por el que debe regirse todos sus integrantes. Faltar al código moral suele acarrear sanciones sociales, y penales en algunos casos.
 
-###Ejemplos de comportamiento moral
+·Ejemplos de comportamiento moral
 
 Cortesía verbal. No mentir. A menos que se trate de una mentira socialmente aceptada. Decir a un enfermo terminal que va a mejorarse. A una persona desanimada y desalineada que tiene buen aspecto que está bien aunque la persona se sienta mal.
 
