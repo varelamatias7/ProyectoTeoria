@@ -388,4 +388,33 @@ Es una BD almacenada en su totalidad en un solo lugar físico, es decir, unas so
 Un conjunto de múltiples BD  lógicamente relacionadas las cuales se encuentran distribuidas en diferentes espacios lógicos y geográficos e interconectados por unared de comunicaciones.
 
 
+**Tarea 20 - Ventajas y desventajas de la utilización de una base de datos.**
+
+**VENTAJAS**
+. Independencia de los datos y los programas y procesos: Esto permite modificar los datos sin modificar el código de las aplicaciones.
+
+.Integridad de los datos:  Mayor dificultad de perder los datos  o de realizar incoherencias con ellos.
+
+.Menor redundancia:  No hace falta tanta repetición de datos, solo se indica la forma en que se relacionan.
+
+.Mayor seguridad en los datos: Al limitar el acceso a los usuarios, cada tipo de usuario podrá acceder a unas cosas.
+
+.Datos más documentados:  Gracias a los metadatos que permiten describir la información de la base de datos.
+
+.Acceso a los datos más eficiente:  La organización de los datos produce un resultado más óptimo en rendimiento.
+
+.Menor espacio de almacenamient: Gracias a una mejor estructuración de los datos.
+
+.Acceso simultáneo a los datos: Es más fácil controlar el acceso de usuarios de forma concurrente.
+
+
+**DESVENTAJAS**
+.Instalación costosa: El control y administración de bases de datos requiere de un software y hardware poderoso.
+
+.Requiere personal cualificado: Debido a la dificultad de manejo de este tipo de datos.
+
+.Implantación larga y difícil: Debido a los puntos anteriores la adaptación del personal es mucho más complicada y lleva bastante tiempo.
+
+.Ausencia de estándares reales: Lo cual significa una excesiva dependencia hacia los sistemas comerciales del mercado.Aunque ,hoy en día, una buena parte de esta tecnología está aceptada como estándar de hecho.
+
 
